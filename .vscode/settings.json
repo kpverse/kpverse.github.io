@@ -15,7 +15,7 @@
         // "minifyCSS": true,
         // "minifyJS": true,
         "processConditionalComments": true,
-        "removeAttributeQuotes": true,
+        // "removeAttributeQuotes": true,
         "removeComments": true,
         "removeEmptyAttributes": true,
         // "removeOptionalTags": true,
