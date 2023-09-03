@@ -1,6 +1,6 @@
 1:HL["https://cdn.jsdelivr.net/gh/patelka2211/kpverse@latest/_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
 2:HL["https://cdn.jsdelivr.net/gh/patelka2211/kpverse@latest/_next/static/css/6b8a512d09d0d9c0.css",{"as":"style"}]
-0:["yWOBkJTx0wMnanNgghMe0",[[["",{"children":["sharer",{"children":["feedback",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/patelka2211/kpverse@latest/_next/static/css/6b8a512d09d0d9c0.css","precedence":"next"}]],"$L4"]]]]
+0:["nuHtg0DXDoejv21Hxa8da",[[["",{"children":["sharer",{"children":["feedback",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/patelka2211/kpverse@latest/_next/static/css/6b8a512d09d0d9c0.css","precedence":"next"}]],"$L4"]]]]
 5:HL["https://cdn.jsdelivr.net/gh/patelka2211/kpverse@latest/_next/static/css/ec967ac3bb812104.css",{"as":"style"}]
 6:"$Sreact.suspense"
 7:I{"id":5286,"chunks":["685:static/chunks/685-89e466807ac0165f.js","185:static/chunks/app/layout-149aa143bb81cb55.js"],"name":"","async":false}
