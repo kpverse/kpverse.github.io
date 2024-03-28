@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.kpverse.in
+
+# Sitemaps
+Sitemap: https://www.kpverse.in/sitemap.xml
